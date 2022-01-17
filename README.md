@@ -21,6 +21,11 @@ To gain development experience, I completed projects for the company where I wor
 * Book: Sams Teach Yourself Regular Expressions in 10 Minutes - Ben Forta
 * Book:Грокаем алгоритмы. А. Бхаргава
 
+## 💬 Soft Skills
+* Adaptability
+* Integrity
+* Dependability
+
 <!--
 **Demeyrg/Demeyrg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
