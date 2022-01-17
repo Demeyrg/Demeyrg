@@ -31,6 +31,7 @@ To gain development experience, I completed projects for the company where I wor
 2. I never have any problems with learning new material, so I learn quickly.
 3. I am ready to give my best when I do what I love. And programming is my favorite thing!
 
+my gmail: slava.aleinikov@gmail.com
 <!--
 **Demeyrg/Demeyrg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
