@@ -3,7 +3,7 @@
 To gain development experience, I completed projects for the company where I work and for myself, which solve everyday tasks. This allowed me to gain experience and understand many programming principles. My objective as a Java Developer is to continually improve and apply my technical skills to develop effective solutions that will benefit the company. 
 
 <p align="center">
-<a href="https://webref.ru"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+<a href="https://t.me/Demeyrg"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
 <a href="mailto:slava.aleinikov@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> 
 </p>
 
